@@ -1,0 +1,70 @@
+1
+Wade
+Walsh
+u1107926@gmail.com
+0409355322
+QLD
+Toowoomba
+4350
+1 Example Street
+[
+Microsoft
+Word
+QLD
+Brisbane
+4000
+122 Bilbo Street
+1.12.5
+30/12/2020
+Personal
+]
+2
+Casey
+Hubbard
+casey.hub@gmail.com
+0407050355
+NSW
+Brisbane
+4000
+23 Baggins Street
+[
+Microsoft
+Word
+QLD
+Brisbane
+4000
+122 Bilbo Street
+1.16.7
+30/12/2020
+Personal
+]
+5
+Bob
+Jones
+bobjones@gmail.com
+0408094032
+QLD
+Brisbane
+4000
+56 Jones Street
+[
+Microsoft
+Excel
+QLD
+Brisbane
+4000
+122 Bilbo Street
+1.16.9
+30/12/2020
+Personal
+]
+7
+Bill
+Johnson
+bill.j@gmail.com
+0407988543
+NSW
+Melbourne
+7860
+12 Rodger Street
+[]
